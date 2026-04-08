@@ -26,7 +26,3 @@
 
 ---
 
-
-<p align="center">
-  <i>"Transforming raw data into conversational intelligence."</i>
-</p>
